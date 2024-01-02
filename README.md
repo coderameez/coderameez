@@ -1,9 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Muhammad Rameez Khan</h1>
-<h3 align="center">A student from Pakistan with passion to learn Web Development</h3>
-
+<h3 align="center">A Passionate Frontend Developer from Pakistan </h3>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderameez&label=Profile%20views&color=0e75b6&style=flat" alt="coderameez" /> </p>
-
 - 🌱 I’m currently learning **Front End Development**
 
 - 💬 Ask me about **HTML**
@@ -23,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderameez&show_icons=true&locale=en" alt="coderameez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderameez&" alt="coderameez" /></p>
+
+
