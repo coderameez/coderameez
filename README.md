@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Rameez Khan</h1>
-<h3 align="center">A pstudent with passion to learn Web Development</h3>
+<h3 align="center">A student from Pakistan with passion to learn Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderameez&label=Profile%20views&color=0e75b6&style=flat" alt="coderameez" /> </p>
 
