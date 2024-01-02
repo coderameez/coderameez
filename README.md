@@ -2,9 +2,9 @@
 <h3 align="center">A Passionate Frontend Developer from Pakistan </h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderameez&label=Profile%20views&color=0e75b6&style=flat" alt="coderameez" /> </p>
-- 🌱 I’m currently learning **Front End Development**
+- 🌱 I’m currently learning Front End Development
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **HTML** & **CSS**
 
 - 📫 How to reach me **m.rameezkhan77@gmail.com**
 
