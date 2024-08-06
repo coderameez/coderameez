@@ -1,16 +1,14 @@
 ![github cover](https://github.com/user-attachments/assets/be4a26b8-22ca-4540-bc11-16e3ec613a13)
-
-
 <h1 align="center">Hi 👋, I'm Muhammad Rameez Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate Front End Developer from Pakistan &#127477&#127472</h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderameez&label=Profile%20views&color=0e75b6&style=flat" alt="coderameez" /> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **javaScript & Firebase**
 
 - 🌱 I’m currently learning **Front End Development**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML,CSS & JavaScript**
 
 - 📫 How to reach me **m.rameezkhan77@gmail.com**
 
