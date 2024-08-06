@@ -1,3 +1,6 @@
+![github cover](https://github.com/user-attachments/assets/be4a26b8-22ca-4540-bc11-16e3ec613a13)
+
+
 <h1 align="center">Hi 👋, I'm Muhammad Rameez Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
