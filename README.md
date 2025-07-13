@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderameez&label=Profile%20views&color=0e75b6&style=flat" alt="coderameez" /> </p>
 
-- 🔭 I’m currently working on **javaScript & Firebase**
+- 🔭 I’m currently working on **JavaScript, C++ and React.JS**
 
-- 🌱 I’m currently learning **Front End Development**
+- 🌱 I’m currently learning **Full Stack Development and Cloud Computing**
 
 - 💬 Ask me about **HTML,CSS & JavaScript**
 
