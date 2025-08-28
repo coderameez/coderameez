@@ -1,28 +1,54 @@
 ![github cover](https://github.com/user-attachments/assets/be4a26b8-22ca-4540-bc11-16e3ec613a13)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;I'm+Muhammad+Rameez+Khan+👋;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </a>
+</h1>
+
 <h1 align="center">Hi 👋, I'm Muhammad Rameez Khan</h1>
-<h3 align="center">A Passionate Front End Developer from Pakistan &#127477&#127472</h3
+<h3 align="center">Front End Developer |Exploring C++ & Cloud Computing 🤖</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderameez&label=Profile%20views&color=0e75b6&style=flat" alt="coderameez" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
-- 🔭 I’m currently working on **JavaScript, C++ and React.JS**
+### 🚀 About Me
 
-- 🌱 I’m currently learning **Full Stack Development and Cloud Computing**
+- 🎓 CLOUD undergraduate student 
+- 💻 Front End Developer (JavaScript, React.JS, NextJS)
+- 🌱 Currently learning **C++** and diving into the world of **Cloud Computing**
+- 🎨 Experienced in **Figma design tools** and headless CMS like **Sanity**
+- 👯 Actively collaborate on open-source projects and learning communities
+- 📫 Reach out: **m.rameezkhan77@gmail.com**
+- ⚡ Fun fact: _Why do programmers prefer dark mode? Because light attracts bugs!_
 
-- 💬 Ask me about **HTML,CSS & JavaScript**
+---
 
-- 📫 How to reach me **m.rameezkhan77@gmail.com**
+### 🌐 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/coderameez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coderameez" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/coderameez/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderameez&show_icons=true&locale=en&layout=compact" alt="coderameez" /></p>
+### 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderameez&show_icons=true&locale=en" alt="coderameez" /></p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,,firebase,cpp,github,vscode,netlify,azure,aws)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderameez&" alt="coderameez" /></p>
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderameezh&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderameez&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderameez" alt="GitHub Streak"/>
+</p>
+
 
