@@ -1,4 +1,3 @@
-![github cover](https://github.com/user-attachments/assets/be4a26b8-22ca-4540-bc11-16e3ec613a13)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;I'm+Muhammad+Rameez+Khan+👋;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -33,22 +32,9 @@
 
 ### 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,,firebase,cpp,github,vscode,netlify,azure,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,firebase,cpp,github,vscode,netlify,azure,aws)](https://skillicons.dev)
 
----
 
-### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderameezh&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderameez&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderameez" alt="GitHub Streak"/>
-</p>
 
 
