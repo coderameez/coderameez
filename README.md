@@ -5,16 +5,16 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Muhammad Rameez Khan</h1>
-<h3 align="center">Front End Developer |Exploring C++ & Cloud Computing 🤖</h3>
+<h3 align="center">Front End Developer | & Cloud Enthusiast 🤖</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 ### 🚀 About Me
 
 - 🎓 CLOUD undergraduate student 
-- 💻 Front End Developer (JavaScript, React.JS, NextJS)
-- 🌱 Currently learning **C++** and diving into the world of **Cloud Computing**
-- 🎨 Experienced in **Figma design tools** and headless CMS like **Sanity**
+- 💻 Front End Developer (JavaScript, React.JS,)
+- 🌱 Currently diving into the world of **Cloud Computing**
+- 🎨 Experienced in **Web Designs** and coding.
 - 👯 Actively collaborate on open-source projects and learning communities
 - 📫 Reach out: **m.rameezkhan77@gmail.com**
 - ⚡ Fun fact: _Why do programmers prefer dark mode? Because light attracts bugs!_
